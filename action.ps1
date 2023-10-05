@@ -2,7 +2,7 @@
 ###########################################################
 # Form mapping
 $formObject = @{
-    MailboxIdentity = $form.MailboxDistinguishedName
+    MailboxIdentity = $form.MailboxIdentity
     UsersToRemove   = $form.UsersToRemove.id
 }
 [bool]$IsConnected = $false
