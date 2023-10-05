@@ -16,7 +16,7 @@ This code snippet executes the following tasks:
 
 ```json
 {
-    "MailboxDistinguishedName": "JohnD01@myenvironment.onmicrosoft.com",
+    "MailboxIdentity": "JohnD01@myenvironment.onmicrosoft.com",
     "UsersToRemove": [
         {
             "id": "JaneD01"
